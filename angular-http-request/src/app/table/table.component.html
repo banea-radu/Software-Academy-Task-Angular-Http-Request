@@ -1,0 +1,14 @@
+<table class="table table-bordered table-striped text-center">
+  <thead>
+    <th> Category </th>
+    <th> Setup </th>
+    <th> Delivery </th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let joke of jokes">
+      <td> {{ joke.category }} </td>
+      <td> {{ joke.setup }} </td>
+      <td> {{ joke.delivery }} </td>
+    </tr>
+  </tbody>
+</table>

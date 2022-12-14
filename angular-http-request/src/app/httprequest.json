@@ -1,0 +1,22 @@
+[
+  {
+    "Ziua": "Marti",
+    "Ora": "16:30 - 17:30",
+    "Categoria": "Incepatori"
+  },
+  {
+    "Ziua": "Marti",
+    "Ora": "19:00 - 20:00",
+    "Categoria": "Intermediari"
+  },
+  {
+    "Ziua": "Joi",
+    "Ora": "16:30 - 17:30",
+    "Categoria": "Incepatori"
+  },
+  {
+    "Ziua": "Joi",
+    "Ora": "19:00 - 20:00",
+    "Categoria": "Intermediari"
+  }
+]
