@@ -16,7 +16,7 @@ export class TableComponent {
 
   getJokes(){
     this.jokesService.getJokes()
-      .subscribe(response => {
+      .subscribe((response) => {
         this.jokes = response.jokes;
     })
   }
